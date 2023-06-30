@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "Complex";
+  src: url("/public/complex/Complex.ttf") format("truetype");
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: none;
+  font-family: 'Complex', sans-serif;
+  color: #fff;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #fff;
+}
